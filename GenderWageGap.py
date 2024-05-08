@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 import plotly.express as px
 st.set_page_config(layout="wide")
 df=pd.read_excel("Women_Earnings_as_a_percentage.xlsx")
