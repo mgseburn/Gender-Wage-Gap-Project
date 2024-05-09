@@ -1,8 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-import subprocess
-import sys
+
 
 st.set_page_config(layout="wide")
 df=pd.read_excel("Women_Earnings_as_a_percentage.xlsx")
