@@ -4,7 +4,7 @@ Author(s): Julianne O'Keefe (julianneokeefe1@outlook.com), Madeline Seburn msebu
 
 ## Project Description
 [See Our Project](https://gender-wage-gap-project-ix5kzelgmbsrcprxahtcqw.streamlit.app/)
-### Queestions of interest:
+### Queestions of interest;
   -Why isn't progress being made to narrow this pay gap?
   -How can we use data to visualize these trends?
   -What are the trends within these gaps?
