@@ -34,29 +34,29 @@ The columns that we specifically interacted with are the different states to be 
    
 
 ## Interpreting Visualizations
-Figure 1: Yearly Percentage for Different Age Ranges
+**Figure 1: Yearly Percentage for Different Age Ranges**
 ![image](https://github.com/mgseburn/Gender-Wage-Gap-Project/assets/168772555/b5082766-cedf-42ef-8db9-e1bf13dfddd9)
 Description: Using the Time Series Graph, we used the women's earnings as a percentage of men’s salaries. We examined the Median usual weekly earnings of wage and salary workers, by hours usually worked. This comparison represented a significant disparity: males consistently exhibit higher earnings per hour compared to females. In addition, in the later age groups, mostly ages 35-65 show even bigger disparities. This is showing that later in life, towrads the end of people's careers men are being paid dratcically more because in 2022 the 55-64 year old range females are making 70% of what the avgerage male is making which is still a lot of money lost each year. This can be due to the earlier age groups working lower income jobs that have a very standard pay range and leave little room for disparities, for example, minimum wage fast food jobs they are the closest ones to being at 100% of what males make as they are closest to the baseline of being equivalent.
 
-Figure 2: 2022 Weekly Proportional Earnings by States
+**Figure 2: 2022 Weekly Proportional Earnings by States**
 ![image](https://github.com/mgseburn/Gender-Wage-Gap-Project/assets/168772555/c93ada41-d20a-4723-a463-a096ef3c6847)
 Description: This heat map of the United States shows a snapshot of how the gender gap recently is across different states. This used a poportion of Females Median Weekly Earnings compared to Males from 2022 for each state. The darker purple the state is means the larger the gap is in that state and Nevada and New Hampshire are 75%. Where as the more yellow the state gets the closer to being equivlanet to males salary it is so Rhode Island has the best with 99%. This is important to pay attention to an to reavaulate so states can see how they are doing compared to each other so they can idenify why the gap is different and so they can improve from themselves each year.
 
 
 
-Figure 3:Yearly Median Earnings by Education Level
+**Figure 3:Yearly Median Earnings by Education Level**
 ![image](https://github.com/mgseburn/Gender-Wage-Gap-Project/assets/168772555/836ff8cf-a76c-4518-b0cf-dcfa4c7339dc)
 Description: This time series visualization is very insightful because it shows how even with the same level of education the gap in median weekly earnings is still present and relevant. Looking at the highest degree with Bachelor degree or higher the gap between male and female is the largest and it follows a similar trend in growth over the years but the gap does not seem to close overtime. And closer to the 1980s females with Bachelor degrees and above were still make less than males with just assoicate degrees and even highschool degrees. But by the 1990s females with bachleors surpassed them which shows a little progress. It is intresting to see that females with associate dregrees are actually making more than males with that degree. But the lowest earnings are females without a highschook diploma and that is shown historically overtime. However it is clear that females overall need to be paid a lot more because even with the same levels of education as many males they are still and have been underpaid.
 
 
 ## Discussion & Summary
-Discussion:
+**Discussion:**
 What does AI have to say about this topic and how to improve it?
 - "The gender pay gap persists for several reasons, including discrimination, occupational segregation, unconscious biases, and differences in negotiation skills. Efforts to narrow the pay gap include promoting pay transparency, implementing equal pay legislation, encouraging diversity and inclusion initiatives in workplaces, and providing training on unconscious bias and negotiation skills"
 - it also recommened to use line charts, bar charts, box plots, scatter plots, or heatmaps
 - then it adressed why visualizations are super imporant; "By analyzing these trends using data visualization techniques, stakeholders can better understand the factors contributing to the gender pay gap and develop targeted interventions to address them."
 
-Key Takeaways:
+**Key Takeaways:**
 3 Main Focuses;
 - Females percentage of earnings to Males across various age groups over a long period of time
 - Females Median Weekly Earnings poprtional to Males from 2022 for each state
