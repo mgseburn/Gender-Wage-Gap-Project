@@ -27,8 +27,17 @@ import pandas as pd
 
 ```
 
-## Instructions
-1.
+## Data Instructions 
+1. Download the excel files; Map, Education, and Womens Earnings as a Percentage
+2. Download the Py file and move all downloads into your working directory
+3. Click the link above that says "See Our Project" to interact with our results
+## Data Description
+We got our data from the US Bureau of Labour statstics which had us specifcally look at earnings. To able to use this with looking at the gender gap we needed to focus in on different demographics to see how variour factors affect it. The data set that we chose to use was the comprehensive earnings for men and women including characteristics such as age, education, location and ect. We created 3 smaller excel sheets that are simplier to work with because it just includes our focuses.
+3 Main Focuses;
+- Females percentage of earnings to Males across various age groups over a long period of time
+- Females Median Weekly Earnings poprtional to Males from 2022 for each state
+- Education levels of Females and Males over a long period of time along with their median earnings 
+   
 
 ## Interpreting Visualizations
 
