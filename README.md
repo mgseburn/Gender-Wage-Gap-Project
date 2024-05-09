@@ -27,7 +27,8 @@ import pandas as pd
 
 ```
 
-## Data description
+## Instructions
+1.
 
 ## Interpreting Visualizations
 
