@@ -20,14 +20,6 @@ These questions are *especially* **important** because...
 
 <img width="335" alt="Screen Shot 2024-05-02 at 2 53 54 PM" src="https://github.com/julianneokeefe/mgt4250spring2024/assets/168772624/a817b19b-67f6-44b5-835a-26d2416a768e">
 
-
-[Elon University](https://www.elon.edu)
-
-``` python
-import pandas as pd
-
-```
-
 ## Data Instructions 
 1. Download the excel files; Map, Education, and Womens Earnings as a Percentage
 2. Download the Py file and move all downloads into your working directory
@@ -58,5 +50,16 @@ Description: This time series visualization is very insightful because it shows 
 
 
 ## Discussion & Summary
+Discussion:
+What does AI have to say about this topic and how to improve it?
+- "The gender pay gap persists for several reasons, including discrimination, occupational segregation, unconscious biases, and differences in negotiation skills. Efforts to narrow the pay gap include promoting pay transparency, implementing equal pay legislation, encouraging diversity and inclusion initiatives in workplaces, and providing training on unconscious bias and negotiation skills"
+- it also recommened to use line charts, bar charts, box plots, scatter plots, or heatmaps
+- then it adressed why visualizations are super imporant; "By analyzing these trends using data visualization techniques, stakeholders can better understand the factors contributing to the gender pay gap and develop targeted interventions to address them."
+
+Key Takeaways:
+3 Main Focuses;
+- Females percentage of earnings to Males across various age groups over a long period of time
+- Females Median Weekly Earnings poprtional to Males from 2022 for each state
+- Education levels of Females and Males over a long period of time along with their median earnings
 By working towards closing the gender wage gap, we need to see more progress in  societal and cultural norms. By leveraging data and visualizations we can better understand the underlying factors that create these gaps and help spread awareness and encourage creating strategies to improve it. 
 
