@@ -12,9 +12,10 @@ Author(s): Julianne O'Keefe (julianneokeefe1@outlook.com), Madeline Seburn msebu
 ### Importance statement
 These questions are *especially* **important** because...
 1. Economic inequalities and gender wage gaps still pose a significant barrier towards narrowing economic gaps and fostering equality in the workplace. These disparities remain a significant challenge in our society and they need to be prioritized so policymakers can efficiently rectify them to promote equity in our economy.
-2.  Despite all efforts to overcome these inequalities, significant gaps still exist. This persistent gap is still prevalent across our global society. In 2022, American women earned approximately 82 cents for every $1 an American man earns which dropped from 2019 where it was 92 cents per dollar ([New York Times](https://www.nytimes.com/2021/03/24/us/equal-pay-day-explainer.html). )
-3.  Looking at the bigger picture, women in the United States lose a combined total of 1.6 trillion dollars per year because of the wage gap. ([CNBC](https://www.cnbc.com/2023/09/18/the-wage-gap-costs-women-1point6-trillion-a-year-report-finds.html#:~:text=The%20wage%20gap%20costs%20women%20%241.6%20trillion%20a%20year%2C%20new,get%20the%20pay%20you%20deserve&text=The%20wage%20gap%20costs%20women%20in%20the%20U.S.%20about%20%241.6,Partnership%20for%20Women%20and%20Families.).) Due to this, families, businesses and the economy suffer as a result.
-4.  Looking even further into the future, it is predicted to take 257 years to close the gender gap if we continue to move at the current rate of change ([ET Edge Insights](https://www.weforum.org/agenda/2019/12/global-economic-gender-pay-gap-equality-women-parity-pay/)).
+   It is Currently Revelavnt in the News;
+3.  Despite all efforts to overcome these inequalities, significant gaps still exist. This persistent gap is still prevalent across our global society. In 2022, American women earned approximately 82 cents for every $1 an American man earns which dropped from 2019 where it was 92 cents per dollar ([New York Times](https://www.nytimes.com/2021/03/24/us/equal-pay-day-explainer.html). )
+4.  Looking at the bigger picture, women in the United States lose a combined total of 1.6 trillion dollars per year because of the wage gap. ([CNBC](https://www.cnbc.com/2023/09/18/the-wage-gap-costs-women-1point6-trillion-a-year-report-finds.html#:~:text=The%20wage%20gap%20costs%20women%20%241.6%20trillion%20a%20year%2C%20new,get%20the%20pay%20you%20deserve&text=The%20wage%20gap%20costs%20women%20in%20the%20U.S.%20about%20%241.6,Partnership%20for%20Women%20and%20Families.).) Due to this, families, businesses and the economy suffer as a result.
+5.  Looking even further into the future, it is predicted to take 257 years to close the gender gap if we continue to move at the current rate of change ([ET Edge Insights](https://www.weforum.org/agenda/2019/12/global-economic-gender-pay-gap-equality-women-parity-pay/)).
 
 
 <img width="335" alt="Screen Shot 2024-05-02 at 2 53 54 PM" src="https://github.com/julianneokeefe/mgt4250spring2024/assets/168772624/a817b19b-67f6-44b5-835a-26d2416a768e">
@@ -41,8 +42,19 @@ The columns that we specifically interacted with are the different states to be 
    
 
 ## Interpreting Visualizations
+Figure 1: Yearly Percentage for Different Age Ranges
+![image](https://github.com/mgseburn/Gender-Wage-Gap-Project/assets/168772555/b5082766-cedf-42ef-8db9-e1bf13dfddd9)
+Description: Using the Time Series Graph, we used the women's earnings as a percentage of men’s salaries. We examined the Median usual weekly earnings of wage and salary workers, by hours usually worked. This comparison represented a significant disparity: males consistently exhibit higher earnings per hour compared to females. In addition, in the later age groups, mostly ages 35-65 show even bigger disparities. This is showing that later in life, towrads the end of people's careers men are being paid dratcically more because in 2022 the 55-64 year old range females are making 70% of what the avgerage male is making which is still a lot of money lost each year. This can be due to the earlier age groups working lower income jobs that have a very standard pay range and leave little room for disparities, for example, minimum wage fast food jobs they are the closest ones to being at 100% of what males make as they are closest to the baseline of being equivalent.
 
+Figure 2: 2022 Weekly Proportional Earnings by States
+![image](https://github.com/mgseburn/Gender-Wage-Gap-Project/assets/168772555/c93ada41-d20a-4723-a463-a096ef3c6847)
+Description: This heat map of the United States shows a snapshot of how the gender gap recently is across different states. This used a poportion of Females Median Weekly Earnings compared to Males from 2022 for each state. The darker purple the state is means the larger the gap is in that state and Nevada and New Hampshire are 75%. Where as the more yellow the state gets the closer to being equivlanet to males salary it is so Rhode Island has the best with 99%. This is important to pay attention to an to reavaulate so states can see how they are doing compared to each other so they can idenify why the gap is different and so they can improve from themselves each year.
+
+
+
+Figure 3:Yearly Median Earnings by Education Level
 ![image](https://github.com/mgseburn/Gender-Wage-Gap-Project/assets/168772555/836ff8cf-a76c-4518-b0cf-dcfa4c7339dc)
+Description: This time series visualization is very insightful because it shows how even with the same level of education the gap in median weekly earnings is still present and relevant. Looking at the highest degree with Bachelor degree or higher the gap between male and female is the largest and it follows a similar trend in growth over the years but the gap does not seem to close overtime. And closer to the 1980s females with Bachelor degrees and above were still make less than males with just assoicate degrees and even highschool degrees. But by the 1990s females with bachleors surpassed them which shows a little progress. It is intresting to see that females with associate dregrees are actually making more than males with that degree. But the lowest earnings are females without a highschook diploma and that is shown historically overtime. However it is clear that females overall need to be paid a lot more because even with the same levels of education as many males they are still and have been underpaid.
 
 
 ## Discussion & Summary
