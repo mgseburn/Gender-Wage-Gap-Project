@@ -23,7 +23,7 @@ These questions are *especially* **important** because...
 2. Download the Py file and move all downloads into your working directory
 3. Click the link above that says "See Our Project" to interact with our results
 ## Data Description
-We got our data from the US Bureau of Labour statistics which had us specifically look at earnings. To be able to use this with looking at the gender gap we needed to focus on different demographics to see how various factors affect it. The data set that we chose to use was the comprehensive earnings for men and women including characteristics such as age, education, location and ect. We created 3 smaller excel sheets that are simpler to work with because it just includes our focuses.
+We got our data from the US Bureau of Labour statistics which had us specifically look at earnings. To be able to use this with looking at the gender gap we needed to focus on different demographics to see how various factors affect it. The data set that we chose to use was the comprehensive earnings for men and women including characteristics such as age, education, location and ect the womens earning table excel . We created 3 smaller excel sheets from this one that are simpler to work with because it just includes our focuses.
 3 Main Focuses;
 - Females percentage of earnings to Males across various age groups over a long period of time
 - Females Median Weekly Earnings proportional to Males from 2022 for each state
