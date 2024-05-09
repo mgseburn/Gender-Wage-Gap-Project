@@ -12,7 +12,7 @@ Author(s): Julianne O'Keefe (julianneokeefe1@outlook.com), Madeline Seburn msebu
 ### Importance statement
 These questions are *especially* **important** because...
 1. Economic inequalities and gender wage gaps still pose a significant barrier towards narrowing economic gaps and fostering equality in the workplace. These disparities remain a significant challenge in our society and they need to be prioritized so policymakers can efficiently rectify them to promote equity in our economy.
-2.  Despite all efforts to overcome these inequalities, significant gaps still exist. This persistent gap is still prevalent across our global society. In 2022, American women earned approximately 82 cents for every $1 an American man earns which dropped from 2019 where it was 92 cents per dollar (New York Times). 
+2.  Despite all efforts to overcome these inequalities, significant gaps still exist. This persistent gap is still prevalent across our global society. In 2022, American women earned approximately 82 cents for every $1 an American man earns which dropped from 2019 where it was 92 cents per dollar ([New York Times](https://www.nytimes.com/2021/03/24/us/equal-pay-day-explainer.html). )
 3.  Looking at the bigger picture, women in the United States lose a combined total of 1.6 trillion dollars per year because of the wage gap. (CNBC). Due to this, families, businesses and the economy suffer as a result.
 4.  Looking even further into the future, it is predicted to take 257 years to close the gender gap if we continue to move at the current rate of change (ET Edge Insights).
 
