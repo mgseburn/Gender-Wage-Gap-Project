@@ -36,12 +36,13 @@ We got our data from the US Bureau of Labour statstics which had us specifcally 
 3 Main Focuses;
 - Females percentage of earnings to Males across various age groups over a long period of time
 - Females Median Weekly Earnings poprtional to Males from 2022 for each state
-- Education levels of Females and Males over a long period of time along with their median earnings 
+- Education levels of Females and Males over a long period of time along with their median earnings
+The columns that we specifically interacted with are the different states to be compared with the male median weekly earnings and the female weekly earning which is a dollar amount. Then years from 1979 to 2022 to show the change in median weekly earnings by gender for male and female in different categories of by age as well as different education levels. 
    
 
 ## Interpreting Visualizations
 
-<img width="438" alt="Screen Shot 2024-05-02 at 2 58 50 PM" src="https://github.com/julianneokeefe/mgt4250spring2024/assets/168772624/67192397-c09c-4198-9528-e8bca4376239">
+![image](https://github.com/mgseburn/Gender-Wage-Gap-Project/assets/168772555/836ff8cf-a76c-4518-b0cf-dcfa4c7339dc)
 
 
 ## Discussion & Summary
