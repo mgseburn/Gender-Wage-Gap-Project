@@ -57,5 +57,6 @@ What does AI have to say about this topic and how to improve it?
 - Females percentage of earnings to Males across various age groups over a long period of time
 - Females Median Weekly Earnings proportional  to Males from 2022 for each state
 - Education levels of Females and Males over a long period of time along with their median earnings
+
 By working towards closing the gender wage gap, we need to see more progress in  societal and cultural norms. By leveraging data and visualizations we can better understand the underlying factors that create these gaps and help spread awareness and encourage creating strategies to improve it. 
 
