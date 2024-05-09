@@ -17,9 +17,6 @@ These questions are *especially* **important** because...
 4.  Looking at the bigger picture, women in the United States lose a combined total of 1.6 trillion dollars per year because of the wage gap. ([CNBC](https://www.cnbc.com/2023/09/18/the-wage-gap-costs-women-1point6-trillion-a-year-report-finds.html#:~:text=The%20wage%20gap%20costs%20women%20%241.6%20trillion%20a%20year%2C%20new,get%20the%20pay%20you%20deserve&text=The%20wage%20gap%20costs%20women%20in%20the%20U.S.%20about%20%241.6,Partnership%20for%20Women%20and%20Families.).) Due to this, families, businesses and the economy suffer as a result.
 5.  Looking even further into the future, it is predicted to take 257 years to close the gender gap if we continue to move at the current rate of change ([ET Edge Insights](https://www.weforum.org/agenda/2019/12/global-economic-gender-pay-gap-equality-women-parity-pay/)).
 
-
-<img width="335" alt="Screen Shot 2024-05-02 at 2 53 54 PM" src="https://github.com/julianneokeefe/mgt4250spring2024/assets/168772624/a817b19b-67f6-44b5-835a-26d2416a768e">
-
 ## Data Instructions 
 1. Download the excel files; Map, Education, and Womens Earnings as a Percentage
 2. Download the Py file and move all downloads into your working directory
